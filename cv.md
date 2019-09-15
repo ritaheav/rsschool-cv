@@ -17,5 +17,5 @@
 7. Education:
    - [Html Academy](https://htmlacademy.ru/profile/id1181493)
    - [Codecademy](https://www.codecademy.com/profiles/ritaheav) 
-
+8. I visited 1 year a courses at International House 3 years ago on intermediate level. 
 
