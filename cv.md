@@ -14,4 +14,8 @@
    - none
 6. Experience: 
    - none
-        
+7. Education:
+   - [Html Academy](https://htmlacademy.ru/profile/id1181493)
+   - [Codecademy](https://www.codecademy.com/profiles/ritaheav) 
+
+
